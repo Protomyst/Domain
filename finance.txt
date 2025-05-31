@@ -1,23 +1,29 @@
-payload:
-  - 'DOMAIN-KEYWORD,binance'
-  - 'DOMAIN-KEYWORD,bybit'
-  - 'DOMAIN-KEYWORD,okx'
-  - 'DOMAIN-KEYWORD,kucoin'
-  - 'DOMAIN-KEYWORD,gateio'
-  - 'DOMAIN-KEYWORD,huobi        # HTX 前身，仍保留旧品牌'
-  - 'DOMAIN-KEYWORD,htx'
-  - 'DOMAIN-KEYWORD,bingx'
-  - 'DOMAIN-KEYWORD,bitmex'
-  - 'DOMAIN-KEYWORD,bitget'
-  - 'DOMAIN-KEYWORD,mexc'
-  - 'DOMAIN-KEYWORD,phemex'
-  - 'DOMAIN-KEYWORD,bitfinex'
-  - 'DOMAIN-KEYWORD,poloniex'
-  - 'DOMAIN-KEYWORD,coinex'
-  - 'DOMAIN-KEYWORD,bittrex'
-  - 'DOMAIN-KEYWORD,primexbt'
-  - 'DOMAIN-KEYWORD,deribit'
-  - 'DOMAIN-KEYWORD,bitmart      # 2025-05 仍地理封锁 US'
-  - 'DOMAIN-KEYWORD,redot'
-  - 'DOMAIN-KEYWORD,redotpay'
-  - 'DOMAIN-KEYWORD,infini'
+# Finance exchanges / payment platforms that block U.S. users  (updated 2025-05-31)
+# 格式：DOMAIN-KEYWORD,<unique-token>     ← Clash rule-set 行首保持一致
+# 资料来源：各官网「Restricted countries / Jurisdiction」条款及近一年公开报道
+# ——— 交易所类 ———
+DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,bybit
+DOMAIN-KEYWORD,okx
+DOMAIN-KEYWORD,kucoin
+DOMAIN-KEYWORD,gateio
+DOMAIN-KEYWORD,huobi        # HTX 前身，仍保留旧品牌
+DOMAIN-KEYWORD,htx
+DOMAIN-KEYWORD,bingx
+DOMAIN-KEYWORD,bitmex
+DOMAIN-KEYWORD,bitget
+DOMAIN-KEYWORD,mexc
+DOMAIN-KEYWORD,phemex
+DOMAIN-KEYWORD,bitfinex
+DOMAIN-KEYWORD,poloniex
+DOMAIN-KEYWORD,coinex
+DOMAIN-KEYWORD,bittrex
+DOMAIN-KEYWORD,primexbt
+DOMAIN-KEYWORD,deribit
+DOMAIN-KEYWORD,bitmart      # 2025-05 仍地理封锁 US
+# ——— 加密支付 / 卡片 ———
+DOMAIN-KEYWORD,redot
+DOMAIN-KEYWORD,redotpay
+DOMAIN-KEYWORD,infini
+# ——— 备用：如需继续补充，把下面模板复制粘贴 ———
+# DOMAIN-KEYWORD,<newexchange>

@@ -7,7 +7,7 @@ DOMAIN-KEYWORD,bybit
 DOMAIN-KEYWORD,okx
 DOMAIN-KEYWORD,kucoin
 DOMAIN-KEYWORD,gateio
-DOMAIN-KEYWORD,huobi        # HTX 前身，仍保留旧品牌
+DOMAIN-KEYWORD,huobi
 DOMAIN-KEYWORD,htx
 DOMAIN-KEYWORD,bingx
 DOMAIN-KEYWORD,bitmex
@@ -20,7 +20,7 @@ DOMAIN-KEYWORD,coinex
 DOMAIN-KEYWORD,bittrex
 DOMAIN-KEYWORD,primexbt
 DOMAIN-KEYWORD,deribit
-DOMAIN-KEYWORD,bitmart      # 2025-05 仍地理封锁 US
+DOMAIN-KEYWORD,bitmart
 # ——— 加密支付 / 卡片 ———
 DOMAIN-KEYWORD,redot
 DOMAIN-KEYWORD,redotpay

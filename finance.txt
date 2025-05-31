@@ -1,0 +1,27 @@
+# Financial websites that block U.S. users (Updated: 2025‑05‑30)
+
+# One root domain per line; sub‑domains are implicitly covered.
+
+# Source: public Terms of Service / Restricted‑countries lists & major news reports.
+
+binance.com
+bybit.com
+kucoin.com
+okx.com
+gate.io
+huobi.com
+htx.com
+bitmex.com
+phemex.com
+redot.com
+redotpay.com
+infini.money
+bitget.com
+mexc.com
+bingx.com
+bitfinex.com
+poloniex.com
+deribit.com
+dydx.exchange
+primexbt.com
+btcc.com

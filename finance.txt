@@ -1,22 +1,23 @@
-DOMAIN-KEYWORD,binance
-DOMAIN-KEYWORD,bybit
-DOMAIN-KEYWORD,okx
-DOMAIN-KEYWORD,kucoin
-DOMAIN-KEYWORD,gateio
-DOMAIN-KEYWORD,huobi
-DOMAIN-KEYWORD,htx
-DOMAIN-KEYWORD,bingx
-DOMAIN-KEYWORD,bitmex
-DOMAIN-KEYWORD,bitget
-DOMAIN-KEYWORD,mexc
-DOMAIN-KEYWORD,phemex
-DOMAIN-KEYWORD,bitfinex
-DOMAIN-KEYWORD,poloniex
-DOMAIN-KEYWORD,coinex
-DOMAIN-KEYWORD,bittrex
-DOMAIN-KEYWORD,primexbt
-DOMAIN-KEYWORD,deribit
-DOMAIN-KEYWORD,bitmart
-DOMAIN-KEYWORD,redot
-DOMAIN-KEYWORD,redotpay
-DOMAIN-KEYWORD,infini
+payload:
+  - 'DOMAIN-KEYWORD,binance'
+  - 'DOMAIN-KEYWORD,bybit'
+  - 'DOMAIN-KEYWORD,okx'
+  - 'DOMAIN-KEYWORD,kucoin'
+  - 'DOMAIN-KEYWORD,gateio'
+  - 'DOMAIN-KEYWORD,huobi'
+  - 'DOMAIN-KEYWORD,htx'
+  - 'DOMAIN-KEYWORD,bingx'
+  - 'DOMAIN-KEYWORD,bitmex'
+  - 'DOMAIN-KEYWORD,bitget'
+  - 'DOMAIN-KEYWORD,mexc'
+  - 'DOMAIN-KEYWORD,phemex'
+  - 'DOMAIN-KEYWORD,bitfinex'
+  - 'DOMAIN-KEYWORD,poloniex'
+  - 'DOMAIN-KEYWORD,coinex'
+  - 'DOMAIN-KEYWORD,bittrex'
+  - 'DOMAIN-KEYWORD,primexbt'
+  - 'DOMAIN-KEYWORD,deribit'
+  - 'DOMAIN-KEYWORD,bitmart'
+  - 'DOMAIN-KEYWORD,redot'
+  - 'DOMAIN-KEYWORD,redotpay'
+  - 'DOMAIN-KEYWORD,infini'
